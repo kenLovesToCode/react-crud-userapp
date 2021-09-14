@@ -1,8 +1,8 @@
 ### React CRUD Application
 ###### CRUD (Create, Read, Update, Delete) implementation using ReactJS for beginners
 
-> git clone https://github.com/kenLovesToCode/react-crud-userapp.git
+###### run `git clone https://github.com/kenLovesToCode/react-crud-userapp.git` to copy the code
 
-> yarn
+###### run `yarn` to install packages
 
-> yarn start
+###### run `yarn start` to start the development server
